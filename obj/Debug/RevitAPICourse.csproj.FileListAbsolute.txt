@@ -1,0 +1,7 @@
+C:\Users\franc\OneDrive\Programas\Revit\Revit API\Lessons\Lesson 1\1\RevitAPICourse\bin\Debug\RevitAPICourse.dll
+C:\Users\franc\OneDrive\Programas\Revit\Revit API\Lessons\Lesson 1\1\RevitAPICourse\bin\Debug\RevitAPICourse.pdb
+C:\Users\franc\OneDrive\Programas\Revit\Revit API\Lessons\Lesson 1\1\RevitAPICourse\obj\Debug\RevitAPICourse.csproj.AssemblyReference.cache
+C:\Users\franc\OneDrive\Programas\Revit\Revit API\Lessons\Lesson 1\1\RevitAPICourse\obj\Debug\RevitAPICourse.csproj.CoreCompileInputs.cache
+C:\Users\franc\OneDrive\Programas\Revit\Revit API\Lessons\Lesson 1\1\RevitAPICourse\obj\Debug\RevitAPICourse.dll
+C:\Users\franc\OneDrive\Programas\Revit\Revit API\Lessons\Lesson 1\1\RevitAPICourse\obj\Debug\RevitAPICourse.pdb
+C:\Users\franc\OneDrive\Programas\Revit\Revit API\Lessons\Lesson 1\1\RevitAPICourse\bin\Debug\Utilities\RevitAPICourse.addin
