@@ -22,4 +22,16 @@
 		<VendorId>FranckWallace</VendorId>
 		<VendorDescription>AEC Industry Student</VendorDescription>
 	</AddIn>
+	<AddIn Type="Command">
+		<Name>CollectorAndFilter</Name>
+		<FullClassName>RevitAPICourse.CollectorAndFilter</FullClassName>
+		<Text>CollectorAndFilter</Text>
+		<Description>Count doors.</Description>
+		<VisibilityMode>AlwaysVisible</VisibilityMode>
+		<Assembly>RevitAPICourse/RevitAPICourse.dll</Assembly>
+		<AddInId>1099A02B-34D9-41F2-936A-D7248F9B4703</AddInId>
+		<VendorId>FranckWallace</VendorId>
+		<VendorDescription>AEC Industry Student</VendorDescription>
+	</AddIn>
+	
 </RevitAddIns>
