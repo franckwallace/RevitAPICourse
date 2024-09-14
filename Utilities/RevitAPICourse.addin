@@ -33,5 +33,16 @@
 		<VendorId>FranckWallace</VendorId>
 		<VendorDescription>AEC Industry Student</VendorDescription>
 	</AddIn>
+	<AddIn Type="Command">
+		<Name>GetElementLocation</Name>
+		<FullClassName>RevitAPICourse.GetElementLocation</FullClassName>
+		<Text>GetElementLocation</Text>
+		<Description>Retrieve element XYZ coordinate.</Description>
+		<VisibilityMode>AlwaysVisible</VisibilityMode>
+		<Assembly>RevitAPICourse/RevitAPICourse.dll</Assembly>
+		<AddInId>E3663F72-BDE8-4DCE-AB1A-75D2325E22EE</AddInId>
+		<VendorId>FranckWallace</VendorId>
+		<VendorDescription>AEC Industry Student</VendorDescription>
+	</AddIn>
 	
 </RevitAddIns>
