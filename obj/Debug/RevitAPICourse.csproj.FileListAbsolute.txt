@@ -5,3 +5,6 @@ C:\Users\franc\OneDrive\Programas\Revit\Revit API\Lessons\Lesson 1\1\RevitAPICou
 C:\Users\franc\OneDrive\Programas\Revit\Revit API\Lessons\Lesson 1\1\RevitAPICourse\obj\Debug\RevitAPICourse.dll
 C:\Users\franc\OneDrive\Programas\Revit\Revit API\Lessons\Lesson 1\1\RevitAPICourse\obj\Debug\RevitAPICourse.pdb
 C:\Users\franc\OneDrive\Programas\Revit\Revit API\Lessons\Lesson 1\1\RevitAPICourse\bin\Debug\Utilities\RevitAPICourse.addin
+C:\Users\franc\OneDrive\Programas\Revit\Revit API\Lessons\Lesson 1\1\RevitAPICourse\bin\Debug\Aspose.Cells.dll
+C:\Users\franc\OneDrive\Programas\Revit\Revit API\Lessons\Lesson 1\1\RevitAPICourse\bin\Debug\Aspose.Cells.xml
+C:\Users\franc\OneDrive\Programas\Revit\Revit API\Lessons\Lesson 1\1\RevitAPICourse\obj\Debug\RevitAPI.870D47A1.Up2Date

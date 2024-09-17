@@ -5,10 +5,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{2F333051-6224-4AF4-9F34-B2820FE0DC8C}|RevitAPICourse.csproj|c:\\users\\franc\\onedrive\\programas\\revit\\revit api\\lessons\\lesson 1\\1\\revitapicourse\\commands\\getelementlocation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2F333051-6224-4AF4-9F34-B2820FE0DC8C}|RevitAPICourse.csproj|solutionrelative:commands\\getelementlocation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2F333051-6224-4AF4-9F34-B2820FE0DC8C}|RevitAPICourse.csproj|C:\\Users\\franc\\OneDrive\\Programas\\Revit\\Revit API\\Lessons\\Lesson 1\\1\\RevitAPICourse\\utilities\\revitapicourse.addin||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
-      "RelativeMoniker": "D:0:0:{2F333051-6224-4AF4-9F34-B2820FE0DC8C}|RevitAPICourse.csproj|solutionrelative:utilities\\revitapicourse.addin||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
     }
   ],
   "DocumentGroupContainers": [
@@ -32,22 +28,9 @@
               "RelativeDocumentMoniker": "Commands\\GetElementLocation.cs",
               "ToolTip": "C:\\Users\\franc\\OneDrive\\Programas\\Revit\\Revit API\\Lessons\\Lesson 1\\1\\RevitAPICourse\\Commands\\GetElementLocation.cs",
               "RelativeToolTip": "Commands\\GetElementLocation.cs",
-              "ViewState": "AQIAAB0AAAAAAAAAAAAAwCsAAAAAAAAA",
+              "ViewState": "AQIAAFAAAAAAAAAAAAAwwF4AAAAyAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-14T19:53:03.615Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "RevitAPICourse.addin",
-              "DocumentMoniker": "C:\\Users\\franc\\OneDrive\\Programas\\Revit\\Revit API\\Lessons\\Lesson 1\\1\\RevitAPICourse\\Utilities\\RevitAPICourse.addin",
-              "RelativeDocumentMoniker": "Utilities\\RevitAPICourse.addin",
-              "ToolTip": "C:\\Users\\franc\\OneDrive\\Programas\\Revit\\Revit API\\Lessons\\Lesson 1\\1\\RevitAPICourse\\Utilities\\RevitAPICourse.addin",
-              "RelativeToolTip": "Utilities\\RevitAPICourse.addin",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAACoAAAAvAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000072|",
-              "WhenOpened": "2024-09-11T23:57:18.914Z",
+              "WhenOpened": "2024-09-16T23:52:14.833Z",
               "EditorCaption": ""
             }
           ]
