@@ -104,8 +104,8 @@ namespace RevitAPICourse
             s += $"StartPoint Y: {crv.GetEndPoint(0).Y}\n";
             s += $"StartPoint Z: {crv.GetEndPoint(0).Z}\n";
             s += $"EndPoint X: {crv.GetEndPoint(1).X}\n";
-            s += $"EndPoint X: {crv.GetEndPoint(1).Y}\n";
-            s += $"EndPoint X: {crv.GetEndPoint(1).Z}\n";
+            s += $"EndPoint Y: {crv.GetEndPoint(1).Y}\n";
+            s += $"EndPoint Z: {crv.GetEndPoint(1).Z}\n";
 
             TaskDialog.Show("Curves", s);
         }
